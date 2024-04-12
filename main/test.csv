@@ -1,0 +1,5 @@
+c_zone,,EU,EU,,EU,JP,KR,SG,,,EU,JP
+c_type,,AirBox,IoT Gateway,IPCamera,IPCamera,IPCamera,IPCamera,IPCamera,Not_a_Real_Device,SmartPlug,SmartPlug,SmartPlug
+i_attached_cnt,92573,11456,16,85716,8203,14101,15,112332,12,29572,194,4
+i_activated_cnt,65,9401,0,19268,3453,8836,1,91449,0,51161,5,0
+i_online_cnt,1,2889,0,2840,634,2786,0,27050,0,18136,2,0
